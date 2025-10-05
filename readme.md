@@ -1,5 +1,6 @@
 # Hypebot
 Hypebot est un bot discord en cours de développement pour rendre les OB Hyping plus efficace.
+####
 __OB :__ Équipe de joueurs (max 9) sur la même île sur le serveur Minecraft francophone OneBlock Hyping.
 ## Prestiges bot
 Déjà disponible, c'est un bot discord qui vous permet de connaître les prérequis de n'importe quel prestige joueur du serveur OneBlock d'Hyping.
